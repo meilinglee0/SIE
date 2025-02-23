@@ -1,4 +1,4 @@
-# Social Interaction Embedding (SIE) for Mental Health Analysis
+# Making Small Language Model Excellent Symptom Inference Expert for Mental Disorders Detection
 
 SIE is a Symptom Inference Expert (SIE) by combining symptom inference knowledge distillation and expert classifier. 
 
