@@ -1,0 +1,1 @@
+python main.py --model_type "bert-base-uncased" --setting "multilabel" --bs 4 --max_len 128 --contrastive_weight 0.5 --temperature 0.07

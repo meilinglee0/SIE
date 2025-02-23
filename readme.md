@@ -59,23 +59,13 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Prepare your data:
+1. put data here 'processed/symp_sum_top' and Prepare your data:
 ```bash
 python processdata/prepare_data.py
 ```
 
 2. Train the model:
 ```bash
-python main.py --model_type bert-base-uncased --bs 8
-```
-
-3. Test the model:
-```bash
-python main.py --model_type bert-base-uncased --test_only
-```
-
-## Run this project
-To run the complete pipeline:
-```bash
 sh run.sh
 ```
+
